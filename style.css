@@ -13,7 +13,7 @@ body {
 
 .cabecalho {
     background-color: rgb(5, 114, 5);
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     margin: 10px 0;
