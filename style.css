@@ -30,8 +30,6 @@ a {
 .cabecalho-icone {
     display: flex;
     justify-content: space-around;
-    margin: 10px 0;
-    padding: 1%;
 }
 
 .img-menu-icon {
