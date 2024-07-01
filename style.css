@@ -28,8 +28,6 @@ a {
 }
 
 .cabecalho-icone {
-    background-color: #337def;
-    color: #ee8f1a;
     display: flex;
     justify-content: space-around;
     margin: 10px 0;
